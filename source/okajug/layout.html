@@ -1,0 +1,12 @@
+{% extends "basic/layout.html" %}
+{% block relbar1 %}
+<div class="document" style="padding:16px;">
+  <a style="background-color: transparent" href="index.html">
+    <img src="{{ pathto('_static/logo.png', 1) }}" />
+  </a>
+</div>
+<div class="clearer"></div>
+{{super()}}
+{% endblock %}
+{% block sidebar1 %}{{ sidebar() }}{% endblock %}
+{% block sidebar2 %}{% endblock %}
