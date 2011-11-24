@@ -1,0 +1,3 @@
+build
+gae/war/*
+!gae/war/WEB-INF
