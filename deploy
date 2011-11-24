@@ -1,4 +1,0 @@
-#!/bin/sh
-
-cp -fr `dirname $0`/build/html/* `dirname $0`/gae/war/WEB-INF/
-${APPENGINE_SDK_HOME}/bin/appcfg.sh --passin update `dirname $0`/gae/war
