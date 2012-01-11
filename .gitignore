@@ -1,3 +1,4 @@
 build
 gae/war/*
 !gae/war/WEB-INF
+.DS_Store
