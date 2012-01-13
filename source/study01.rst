@@ -2,7 +2,7 @@
 .. _study01:
 
 第１回　岡山Javaユーザ会勉強会　報告
-==================================
+======================================
 2011/12/17に、記念すべき第１回　岡山Javaユーザ会の勉強会を開催しました。
 
 * 日時　2011/12/17 13:30〜17:00
@@ -13,17 +13,20 @@
 
 
 今こそオープンソースが熱いJava
------------------------------
+--------------------------------
 * 登壇者　オープンソースデベロッパ　山本裕介氏
+
 * セッションの様子
-.. image:: _static/study01/RIMG0120.JPG
+
+.. image:: okajug/static/study01/RIMG0120.JPG
    :width: 50%   
-.. image:: _static/study01/RIMG0122.JPG
+.. image:: okajug/static/study01/RIMG0122.JPG
    :width: 50%
-.. image:: _static/study01/RIMG0123.JPG
+.. image:: okajug/static/study01/RIMG0123.JPG
    :width: 50%
 
 * セッション資料
+
 .. raw:: html
 
     <div style="width:425px" id="__ss_10620853">
@@ -35,33 +38,39 @@
 
 
 Java Persistence APIの詳細について
------------------------------
+------------------------------------
 * 登壇者　日本Oracle株式会社　シニアJavaエバンジェリスト 寺田佳央氏
+
 * セッションの様子
-.. image:: _static/study01/RIMG0124.JPG
+
+.. image:: okajug/static/study01/RIMG0124.JPG
    :width: 50%   
-.. image:: _static/study01/RIMG0125.JPG
+.. image:: okajug/static/study01/RIMG0125.JPG
    :width: 50%
-.. image:: _static/study01/RIMG0126.JPG
+.. image:: okajug/static/study01/RIMG0126.JPG
    :width: 50%
-.. image:: _static/study01/RIMG0127.JPG
+.. image:: okajug/static/study01/RIMG0127.JPG
    :width: 50%
    
 * セッション資料
+
 .. raw:: html
 
     <div style="width:425px" id="__ss_10621207"> <strong style="display:block;margin:12px 0 4px"><a href="http://www.slideshare.net/OracleMiddleJP/the-detail-of-jpa-20" title="The detail of JPA 20" target="_blank">The detail of JPA 20</a></strong> <iframe src="http://www.slideshare.net/slideshow/embed_code/10621207?rel=0" width="425" height="355" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe> <div style="padding:5px 0 12px"> View more presentations from <a href="http://www.slideshare.net/OracleMiddleJP" target="_blank">Oracle Fusion Middleware</a> </div> </div>
 
 このwarをデプロイしたのは誰だあっ！！～至高のCI Jenkins～
------------------------------
+-----------------------------------------------------------
 * 登壇者　岡山Javaユーザ会　角田裕樹氏
+
 * セッションの様子
-.. image:: _static/study01/RIMG0129.JPG
+
+.. image:: okajug/static/study01/RIMG0129.JPG
    :width: 50%   
-.. image:: _static/study01/RIMG0131.JPG
+.. image:: okajug/static/study01/RIMG0131.JPG
    :width: 50%
    
 * セッション資料
+
 http://dl.dropbox.com/u/15625994/okajug_01/index.html
 
 総括
