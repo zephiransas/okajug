@@ -15,9 +15,24 @@
 第2回 岡山Javaユーザ会 勉強会
 -------------------------------------
  * 日時 　2012/2/25（土） 
- * 場所　（調整中） 
+ * 場所　岡山県立図書館　サークル活動室２（岡山県岡山市北区丸の内2-6-30） 
  * 参加方法  `こちらのATND <http://atnd.org/events/23992>`_ に参加登録してください
-  
+
+.. list-table::
+   :widths: 20 50
+   :header-rows: 1
+
+   * - 出演
+     - タイトル
+   * - 山本和久氏 (`@kazuhisa1976 <http://twitter.com/kazuhisa1976>`_ )
+     - （仮：JRubyについて）
+   * - 櫻庭祐一氏 (`@skrb <http://twitter.com/skrb>`_ )
+     - JavaFXで開く新世代GUI
+   * - 吉田貴文 (`@zephiransas <http://twitter.com/zephiransas>`_ )
+     - （仮：JRubyについて）
+   * - pukka_TiM氏 (`@pukka_TiM <http://twitter.com/pukka_TiM>`_ )
+     - （LT枠の予定）
+
 
 実施したイベント
 ========================
