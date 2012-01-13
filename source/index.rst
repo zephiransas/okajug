@@ -29,7 +29,7 @@
    * - 櫻庭祐一氏 (`@skrb <http://twitter.com/skrb>`_ )
      - JavaFXで開く新世代GUI
    * - 吉田貴文 (`@zephiransas <http://twitter.com/zephiransas>`_ )
-     - （仮：JRubyについて）
+     - Java7再入門講座
    * - pukka_TiM氏 (`@pukka_TiM <http://twitter.com/pukka_TiM>`_ )
      - （LT枠の予定）
 
