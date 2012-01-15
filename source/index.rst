@@ -25,7 +25,7 @@
    * - 出演
      - タイトル
    * - 山本和久氏 (`@kazuhisa1976 <http://twitter.com/kazuhisa1976>`_ )
-     - （仮：JRubyについて）
+     - JRubyで作るAPIサーバー
    * - 櫻庭祐一氏 (`@skrb <http://twitter.com/skrb>`_ )
      - JavaFXで開く新世代GUI
    * - 吉田貴文 (`@zephiransas <http://twitter.com/zephiransas>`_ )
