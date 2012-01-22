@@ -9,6 +9,12 @@
 
 岡山Javaユーザ会は、Javaやこれを取り巻く周辺技術について、岡山やその近辺のIT技術者のための勉強会を実施している、ユーザ主導のコミュニティです。
 
+会員になるには？
+========================
+以下の岡山Javaユーザ会のGoogle Groupsへの参加をもって、会員とします。
+
+`http://groups.google.com/group/okajug <http://groups.google.com/group/okajug>`_
+
 
 実施予定のイベント
 ========================
@@ -57,11 +63,14 @@ Twitterでは
 
 運営スタッフ
 ========================
-* zephiransas
+* zephiransas - 代表
  * Twitter - `@zephiransas <https://twitter.com/zephiransas>`_ 
  * hatena - http://d.hatena.ne.jp/zephiransas
-* razon
+* razon - 幹事長
  * Twitter - `@razon <https://twitter.com/razon>`_ 
  * hatena - http://d.hatena.ne.jp/razon
-* o310yusuke
+* o310yusuke - 政調会長
  * Twitter - `@o310yusuke <https://twitter.com/o310yusuke>`_ 
+* ryosms - 相談役
+ * Twitter - `@ryosms <https://twitter.com/ryosms>`_ 
+ * hatena - http://blog.livedoor.jp/ryosms/
