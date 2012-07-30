@@ -1,4 +1,5 @@
 build
+*.pyc
 gae/war/*
 !gae/war/WEB-INF
 .DS_Store
