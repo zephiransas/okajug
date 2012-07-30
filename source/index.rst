@@ -54,7 +54,7 @@ Twitterでは
  * blog - http://d.hatena.ne.jp/zephiransas
 * razon - 幹事長
  * Twitter - `@razon <https://twitter.com/razon>`_ 
- * blog - http://d.hatena.ne.jp/razon
+ * blog - http://shizone.github.com/
 * o310yusuke - 政調会長
  * Twitter - `@o310yusuke <https://twitter.com/o310yusuke>`_ 
 * ryosms - 相談役
