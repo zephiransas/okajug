@@ -19,27 +19,7 @@
 実施予定のイベント
 ========================
 
-第3回 岡山Javaユーザ会 勉強会
--------------------------------------
-* 日時 　2012/7/28（土） 
-* 場所　株式会社シンフォーム （岡山市北区高柳東町10-1） 
-* 参加方法  `こちらのATND <http://atnd.org/events/30247>`_ に参加登録してください
-* 懇親会  `こちらのATND <http://atnd.org/events/30749>`_ に参加登録してください
-
-.. list-table::
-   :widths: 20 50
-   :header-rows: 1
-
-   * - 出演
-     - タイトル
-   * - a_know氏 (`@a_know <http://twitter.com/a_know>`_ )
-     - （JavaFXについて）
-   * - 吉田貴文氏 (`@zephiransas <http://twitter.com/zephiransas>`_ )
-     - GlassFishの監視ツール、LightFishの紹介
-   * - 寺田佳央氏 (`@yoshioterada <http://twitter.com/yoshioterada>`_ )
-     - JSF (JavaServer Faces) 2.0 の詳細について
-   * - 角田裕樹氏 (`@razon <http://twitter.com/razon>`_ )
-     - ジャバ語の次はスカラ語
+現在は実施予定はありません
 
 実施したイベント
 ========================
@@ -51,6 +31,9 @@
    * - 開催日
      - タイトル
      - 場所
+   * - 2012/7/28
+     - :ref:`第3回 岡山Javaユーザ会 勉強会 <study03>`
+     - 株式会社シンフォーム
    * - 2012/2/25
      - :ref:`第2回 岡山Javaユーザ会 勉強会 <study02>`
      - 岡山県立図書館
