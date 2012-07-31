@@ -57,6 +57,7 @@ Twitterでは
  * blog - http://shizone.github.com/
 * o310yusuke - 政調会長
  * Twitter - `@o310yusuke <https://twitter.com/o310yusuke>`_ 
+ * blog - http://yusuke-memo.blogspot.jp/
 * ryosms - 相談役
  * Twitter - `@ryosms <https://twitter.com/ryosms>`_ 
  * blog - http://blog.livedoor.jp/ryosms/
