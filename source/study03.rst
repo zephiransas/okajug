@@ -23,6 +23,11 @@
 .. image:: okajug/static/study03/photo01-02.JPG
    :width: 50%
 
+* セッション資料
+
+.. raw:: html
+
+	<iframe src="http://www.slideshare.net/slideshow/embed_code/13783802" width="427" height="356" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC;border-width:1px 1px 0;margin-bottom:5px" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="http://www.slideshare.net/aknow3373/javafx-2x3java" title="はじめよう　JavaFX 2.x（第3回　岡山Javaユーザー会）" target="_blank">はじめよう　JavaFX 2.x（第3回　岡山Javaユーザー会）</a> </strong> from <strong><a href="http://www.slideshare.net/aknow3373" target="_blank">a know</a></strong> </div>
 
 GlassFishの監視ツール、LightFishの紹介
 ------------------------------------------------
