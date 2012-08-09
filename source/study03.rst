@@ -39,6 +39,9 @@ GlassFishの監視ツール、LightFishの紹介
 
 	<iframe src="http://www.slideshare.net/slideshow/embed_code/13797550" width="427" height="356" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC;border-width:1px 1px 0;margin-bottom:5px" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="http://www.slideshare.net/zephiransas/lightfish" title="Lightfish触ってみた" target="_blank">Lightfish触ってみた</a> </strong> from <strong><a href="http://www.slideshare.net/zephiransas" target="_blank">takafumi Yoshida</a></strong> </div>
 
+* 動画
+
+.. youtube:: 7dDYAEqvxZ4
 
 JSF (JavaServer Faces) 2.0 の詳細について
 ----------------------------------------------------
@@ -71,6 +74,9 @@ JSF (JavaServer Faces) 2.0 の詳細について
 
 http://shizone.github.com/slides/okajug_03/#0
 
+* 動画
+
+.. youtube:: A5nFyLbzSY4
 
 プレゼント争奪じゃんけん大会
 ------------------------------------------
