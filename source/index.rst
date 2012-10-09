@@ -19,7 +19,23 @@
 実施予定のイベント
 ========================
 
-現在は実施予定はありません
+第4回 岡山Javaユーザ会 勉強会
+-------------------------------------
+* 日時 　2012/11/3（土） 
+* 場所　岡山県立図書館 （岡山県岡山市北区丸の内2-6-30） 
+* 参加方法  `こちらのATND <http://atnd.org/events/33059>`_ に参加登録してください
+* 懇親会  `こちらのATND <http://atnd.org/events/33060>`_ に参加登録してください
+
+.. list-table::
+   :widths: 20 50
+   :header-rows: 1
+
+   * - 出演
+     - タイトル
+   * - 寺田佳央氏 (`@yoshioterada <http://twitter.com/yoshioterada>`_ )
+     - （仮）JavaOne報告会
+   * - 吉田貴文氏 (`@zephiransas <http://twitter.com/zephiransas>`_ )
+     - （仮）JavaEE6について
 
 実施したイベント
 ========================
