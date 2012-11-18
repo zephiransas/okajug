@@ -58,5 +58,5 @@ LT:Twitterで振り返る、JavaOne2012 San Francisco
 ------------------------------------------
 .. image:: okajug/static/study04/photo5-1.jpg
    :width: 50%   
-.. image:: okajug/static/study04/photo5-1.jpg
+.. image:: okajug/static/study04/photo5-2.jpg
    :width: 50%   
