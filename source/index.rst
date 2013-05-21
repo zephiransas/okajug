@@ -58,7 +58,7 @@ Twitterでは
 ========================
 * zephiransas - 代表
  * Twitter - `@zephiransas <https://twitter.com/zephiransas>`_ 
- * blog - http://d.hatena.ne.jp/zephiransas
+ * blog - http://zephiransas.github.io
 * razon - 幹事長
  * Twitter - `@razon <https://twitter.com/razon>`_ 
  * blog - http://shizone.github.com/
