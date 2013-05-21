@@ -7,4 +7,5 @@
     <inbound-services>
       <service>mail</service>
     </inbound-services>
+    <threadsafe>true</threadsafe>
 </appengine-web-app>
